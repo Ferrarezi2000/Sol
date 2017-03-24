@@ -1,0 +1,18 @@
+.bloger{
+    padding-top: 60px;
+}
+.menu{
+    background-color: #fcf4c5 !important;
+    height: 70px;
+}
+.menu_texto{
+    color: #999582 !important;
+}
+.menu_texto_bloger{
+    color: black !important;
+    font-weight: bolder !important;
+}
+.index{
+    display: none;
+}
+

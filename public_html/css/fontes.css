@@ -1,0 +1,37 @@
+@font-face {
+    font-family: baar;
+    src: url(font/baar.ttf);
+}
+@font-face {
+    font-family: futura;
+    src: url(font/futura.ttf);
+}
+html{
+    width: 100%;
+    font-family: futura !important; 
+}
+body{
+    width: 100%;
+    font-family: futura !important;
+}
+.titulo_baar{
+    font-family: baar !important;
+    color: #5e5d5d;    
+}
+.titulo_futura{
+    font-family: futura !important;
+}
+.justificado{
+    text-align: justify;
+}
+.preto{
+    color: black !important;
+}
+.fundo1{
+    background-color: cornsilk;
+    padding-top: 0px !important;
+}
+
+.margem_baixo{
+    padding-bottom: 0px !important;
+}
